@@ -11,4 +11,4 @@
 
 # 실행 화면
 
-
+![screenshot](https://github.com/ChoiKyubum/additiontest/blob/master/screenshot.png)
